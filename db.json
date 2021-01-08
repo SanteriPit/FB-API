@@ -1,0 +1,58 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Mega-Hampurilainen",
+            "restaurant": "Hesburger",
+            "web": "https://www.hesburger.fi/",
+            "description": "Paras pysähys paikka ja hyvä",
+            "ingredients": ["beef", "ketchup", "grill sauce", "bread"],
+            "addresses": [
+                {
+                    "addressid":"0",
+                    "number":"4-10",
+                    "line-1": "Asematie",
+                    "line-2": "Tikkurila, Vantaa",
+                    "postcode": "01300",
+                    "country": "Suomi"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Whopper",
+            "restaurant": "Burger-King",
+            "web": "https://www.burgerking.fi/",
+            "description": "Paras nopeissa tapauksissa",
+            "ingredients": ["beef", "ketchup", "bread"],
+            "addresses": [
+                {
+                    "addressid":"0",
+                    "number":"none",
+                    "line-1": "Burger King Vantaa",
+                    "line-2": "Ratatie, Dixi, Vantaa",
+                    "postcode": "01300",
+                    "country": "Suomi"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Double QP",
+            "restaurant": "McDonald's",
+            "web": "https://www.mcdonalds.com/fi/fi-fi.html",
+            "description": "Paras aina",
+            "ingredients": ["2xbeef", "ketchup", "bread"],
+            "addresses": [
+                {
+                    "addressid":"0",
+                    "number":"2",
+                    "line-1": "Aamuruskontie",
+                    "line-2": "Helsinki",
+                    "postcode": "00750",
+                    "country": "Suomi"
+                }
+            ]
+        }
+    ]
+}
